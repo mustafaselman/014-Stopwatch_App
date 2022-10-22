@@ -65,7 +65,7 @@ function start (){
                 }
             }
          } 
-    },1);
+    },10);
 }
 
 function stop (){
